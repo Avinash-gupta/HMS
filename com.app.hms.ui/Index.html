@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html ng-app="SecurityApp">
+<head>
+    <title>Security Portal Login</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="bower_components/bootstrap/dist/css/" />
+    <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="bower_components/nprogress/nprogress.css" rel="stylesheet">
+    <link href="bower_components/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="bower_components/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="bower_components/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
+    <link href="bower_components/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
+    <link href="bower_components/ngAnimate/css/ng-animation.css" rel="stylesheet" />
+    <link href="bower_components/ng-notify/dist/ng-notify.min.css" rel="stylesheet" />
+    <link href="bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" />
+    <link href="Assets/Css/angular-ui-switch.min.css" rel="stylesheet" />
+    <link href="Assets/Css/bootstrap-datepaginator.css" />
+    <link href="Assets/Css/green.css" rel="stylesheet" />
+    <link href="Assets/Css/ui-grid.css" rel="stylesheet" />
+    <link href="Assets/Css/datepicker.css" rel="stylesheet" />
+    <link href="Assets/Css/custom.css" rel="stylesheet">
+</head>
+<body class="nav-md">
+
+    <div class="container body">
+        <div class="main_container">
+
+
+            <div ui-view></div>
+
+
+        </div>
+    </div>
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="bower_components/nprogress/nprogress.js"></script>
+    <script src="bower_components/jQuery-Smart-Wizard/js/jquery.smartWizard.js"></script>
+    <script src="bower_components/Chart.js/dist/Chart.min.js"></script>
+    <script src="bower_components/gauge.js/dist/gauge.min.js"></script>
+    <script src="bower_components/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="bower_components/iCheck/icheck.min.js"></script>
+    <script src="bower_components/skycons/skycons.js"></script>
+    <script src="bower_components/Flot/jquery.flot.js"></script>
+    <script src="bower_components/Flot/jquery.flot.pie.js"></script>
+    <script src="bower_components/Flot/jquery.flot.time.js"></script>
+    <script src="bower_components/Flot/jquery.flot.stack.js"></script>
+    <script src="bower_components/Flot/jquery.flot.resize.js"></script>
+    <script src="bower_components/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="bower_components/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="bower_components/flot.curvedlines/curvedLines.js"></script>
+    <script src="bower_components/DateJS/build/date.js"></script>
+    <script src="bower_components/jqvmap/dist/jquery.vmap.js"></script>
+    <script src="bower_components/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+    <script src="bower_components/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
+    <script src="bower_components/moment/min/moment.min.js"></script>
+
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular-animate.min.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/ng-notify/dist/ng-notify.min.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="bower_components/ng-flow/dist/ng-flow-standalone.js"></script>
+    <script src="bower_components/ngstorage/ngStorage.js"></script>
+    <script src="Assets/Scripts/jquery.dlbx.js"></script>
+    <script src="Assets/Scripts/angular-bootstrap-duallistbox.min.js"></script>
+    <script src="Assets/Scripts/angular-ui-switch.min.js"></script>
+    <script src="bower_components/moment/moment.js"></script>
+    <script src="bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+    <script src="Assets/Scripts/bootstrap-datepaginator.min.js"></script>
+
+    <script src="bower_components/underscore/underscore-min.js"></script>
+    <script src="Assets/Scripts/ui-grid.min.js"></script>
+    <script src="bower_components/pdfmake/build/pdfmake.js"></script>
+    <script src="bower_components/pdfmake/build/vfs_fonts.js"></script>
+
+
+    <script src="index.js"></script>
+    <script src="App/Login/LoginController.js"></script>
+    <script src="App/Login/AuthenticationService.js"></script>
+    <script src="App/Extensions/ngLoadScript.js"></script>
+
+    <script src="App/Dashboard/DashboardController.js"></script>
+    <script src="App/Patient/AddPatientController.js"></script>
+    <script src="App/Patient/PatientManagementService.js"></script>
+    <script src="App/Patient/RetrievePatientController.js"></script>
+
+
+    <script src="App/UsersManagement/UsersManagementController.js"></script>
+    <script src="App/UsersManagement/AddUserController.js"></script>
+    <script src="App/UsersManagement/ViewUserController.js"></script>
+    <script src="App/UsersManagement/UserManagementService.js"></script>
+    
+
+    <script src="App/ClientsManagement/ClientsManagementController.js"></script>
+    <script src="App/ClientsManagement/AddClientController.js"></script>
+    <script src="App/ClientsManagement/ViewClientController.js"></script>
+    <script src="App/ClientsManagement/AttendenceManagementController.js"></script>
+    <script src="App/ClientsManagement/ClientManagementService.js"></script>
+    <script src="App/ClientsManagement/Contracts/AddContractController.js"></script>
+    <script src="App/ClientsManagement/Contracts/ViewContractController.js"></script>
+    <script src="App/ClientsManagement/Contracts/ContractsManagementController.js"></script>
+    <script src="App/ClientsManagement/Contracts/ContractsManagementService.js"></script>
+    
+
+    <script src="Assets/Scripts/custom.js"></script>
+</body>
+
+
+</html>

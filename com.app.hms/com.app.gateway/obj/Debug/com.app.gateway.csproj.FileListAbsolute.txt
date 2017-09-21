@@ -1,0 +1,14 @@
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\com.app.gateway.dll.config
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\com.app.gateway.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\com.app.gateway.pdb
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\com.app.models.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\EntityFramework.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\Ninject.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\com.app.models.pdb
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\EntityFramework.xml
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\HMS\com.app.hms\com.app.gateway\bin\Debug\Ninject.xml
+C:\Projects\HMS\com.app.hms\com.app.gateway\obj\Debug\com.app.gateway.csprojResolveAssemblyReference.cache
+C:\Projects\HMS\com.app.hms\com.app.gateway\obj\Debug\com.app.gateway.dll
+C:\Projects\HMS\com.app.hms\com.app.gateway\obj\Debug\com.app.gateway.pdb

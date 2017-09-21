@@ -1,0 +1,15 @@
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\com.app.models.dll.config
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\com.app.models.dll
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\com.app.models.pdb
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\EntityFramework.dll
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\EntityFramework.xml
+C:\Projects\HMS\com.app.hms\com.app.models\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.Migrations.DelegateInfoTable.resources
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.Migrations.AddedDatabaseGeneratedOption.resources
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.Migrations.CreatedPatientInfoandDiagnosis.resources
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.Migrations.RemovedDiagnosis.resources
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.Migrations.Addednewcolumnstopatient.resources
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.csproj.GenerateResource.Cache
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.dll
+C:\Projects\HMS\com.app.hms\com.app.models\obj\Release\com.app.models.pdb

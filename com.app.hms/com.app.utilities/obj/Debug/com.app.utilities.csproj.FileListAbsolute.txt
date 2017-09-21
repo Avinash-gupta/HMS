@@ -1,0 +1,7 @@
+C:\Projects\HMS\com.app.hms\com.app.utilities\bin\Debug\com.app.utilities.dll
+C:\Projects\HMS\com.app.hms\com.app.utilities\bin\Debug\com.app.utilities.pdb
+C:\Projects\HMS\com.app.hms\com.app.utilities\bin\Debug\Ninject.dll
+C:\Projects\HMS\com.app.hms\com.app.utilities\bin\Debug\Ninject.xml
+C:\Projects\HMS\com.app.hms\com.app.utilities\obj\Debug\com.app.utilities.csprojResolveAssemblyReference.cache
+C:\Projects\HMS\com.app.hms\com.app.utilities\obj\Debug\com.app.utilities.dll
+C:\Projects\HMS\com.app.hms\com.app.utilities\obj\Debug\com.app.utilities.pdb

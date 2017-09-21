@@ -1,0 +1,17 @@
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\com.app.businesstierTests.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\com.app.businesstierTests.pdb
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\Castle.Core.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\Moq.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.abstractions.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.assert.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.core.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.execution.desktop.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\Moq.pdb
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\Moq.xml
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.abstractions.xml
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.assert.xml
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.core.xml
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\bin\Debug\xunit.execution.desktop.xml
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\obj\Debug\com.app.businesstierTests.csprojResolveAssemblyReference.cache
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\obj\Debug\com.app.businesstierTests.dll
+C:\Projects\HMS\com.app.hms\com.app.businesstierTests\obj\Debug\com.app.businesstierTests.pdb
